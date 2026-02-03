@@ -2,10 +2,6 @@
 
 A professional, **fully offline** desktop application for generating EU MDR 2017/745 compliant clinical documentation including CEP, CER, SSCP, and LSR documents.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Python](https://img.shields.io/badge/python-3.11+-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
-
 ## Features
 
 ### Core Capabilities
@@ -165,53 +161,6 @@ The application will open in your browser at `http://localhost:8501`
 - Set company information
 - Test system components
 
-## Project Structure
-
-```
-mdr-doc-generator/
-├── app.py                      # Main application entry point
-├── config.py                   # Configuration settings
-├── requirements.txt            # Python dependencies
-├── README.md                   # This file
-│
-├── src/                        # Source code
-│   ├── ingestion/             # File processing
-│   ├── classification/        # Document classification
-│   ├── extraction/            # Entity extraction
-│   ├── knowledge_base/        # Vector store and retrieval
-│   ├── generation/            # Report generation
-│   ├── templates/             # DOCX templates
-│   ├── database/              # Database models
-│   └── utils/                 # Utility functions
-│
-├── pages/                      # Streamlit pages
-│   ├── 1_Projects.py          # Project management
-│   ├── 2_Upload_Files.py      # File upload
-│   ├── 3_Process_Files.py     # Processing pipeline
-│   ├── 4_Review_Classification.py  # Classification review
-│   ├── 5_Generate_Reports.py  # Report generation
-│   ├── 6_Export.py            # Export interface
-│   └── 7_Settings.py          # Settings
-│
-├── prompts/                    # LLM prompt templates
-│   ├── classification/
-│   ├── extraction/
-│   ├── cep/                   # CEP section prompts
-│   ├── cer/                   # CER section prompts
-│   ├── sscp/                  # SSCP section prompts
-│   └── lsr/                   # LSR section prompts
-│
-├── assets/                     # CSS and assets
-│   └── style.css
-│
-├── data/                       # Data storage
-│   ├── projects/              # Project files
-│   ├── chroma_db/             # Vector database
-│   └── app.db                 # SQLite database
-│
-└── output/                     # Generated reports
-```
-
 ## Configuration
 
 ### Ollama Settings
@@ -332,6 +281,3 @@ For issues, questions, or suggestions:
 
 ---
 
-**Built with:** Python • Streamlit • Ollama • ChromaDB • Sentence-Transformers • LangChain
-
-**Made for:** Medical Device Regulatory Professionals
