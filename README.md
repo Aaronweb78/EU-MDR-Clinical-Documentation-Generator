@@ -265,12 +265,6 @@ The application will open in your browser at `http://localhost:8501`
 
 This tool assists in generating clinical documentation but does not replace professional regulatory expertise. All generated content must be reviewed and validated by qualified regulatory professionals before submission to notified bodies or regulatory authorities.
 
-## Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Check the troubleshooting section above
-- Review Ollama documentation
 
 ## References
 
