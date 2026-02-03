@@ -1,0 +1,206 @@
+/* Main app styling - dark professional theme */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+    --bg-primary: #0E1117;
+    --bg-secondary: #1E2128;
+    --bg-tertiary: #262B36;
+    --accent-primary: #00D4AA;
+    --accent-secondary: #3B82F6;
+    --text-primary: #FAFAFA;
+    --text-secondary: #8B949E;
+    --success: #10B981;
+    --warning: #F59E0B;
+    --error: #EF4444;
+    --border: #30363D;
+}
+
+.stApp {
+    background-color: var(--bg-primary);
+    font-family: 'Inter', sans-serif;
+}
+
+/* Hide default Streamlit elements */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+/* Custom header */
+.main-header {
+    background: linear-gradient(90deg, var(--bg-secondary) 0%, var(--bg-tertiary) 100%);
+    padding: 1.5rem 2rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+    border: 1px solid var(--border);
+}
+
+.main-header h1 {
+    color: var(--text-primary);
+    font-weight: 600;
+    margin: 0;
+}
+
+/* Cards */
+.card {
+    background: var(--bg-secondary);
+    border-radius: 12px;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    transition: all 0.2s ease;
+}
+
+.card:hover {
+    border-color: var(--accent-primary);
+    transform: translateY(-2px);
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(90deg, var(--accent-primary) 0%, #00B894 100%);
+    color: var(--bg-primary);
+    border: none;
+    border-radius: 8px;
+    padding: 0.75rem 1.5rem;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 212, 170, 0.3);
+}
+
+/* Secondary button */
+.secondary-btn > button {
+    background: transparent;
+    border: 1px solid var(--accent-primary);
+    color: var(--accent-primary);
+}
+
+/* Progress bar */
+.stProgress > div > div {
+    background: linear-gradient(90deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+}
+
+/* Tables */
+.dataframe {
+    background: var(--bg-secondary);
+    border-radius: 8px;
+}
+
+.dataframe th {
+    background: var(--bg-tertiary);
+    color: var(--text-primary);
+}
+
+.dataframe td {
+    color: var(--text-secondary);
+}
+
+/* File uploader */
+.uploadedFile {
+    background: var(--bg-secondary);
+    border: 1px dashed var(--border);
+    border-radius: 8px;
+}
+
+/* Metrics */
+.metric-card {
+    background: var(--bg-secondary);
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    border: 1px solid var(--border);
+}
+
+.metric-value {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--accent-primary);
+}
+
+.metric-label {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background: var(--bg-secondary);
+}
+
+/* Status badges */
+.status-badge {
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.status-draft {
+    background: rgba(139, 148, 158, 0.2);
+    color: var(--text-secondary);
+}
+
+.status-processing {
+    background: rgba(245, 158, 11, 0.2);
+    color: var(--warning);
+}
+
+.status-ready {
+    background: rgba(16, 185, 129, 0.2);
+    color: var(--success);
+}
+
+.status-error {
+    background: rgba(239, 68, 68, 0.2);
+    color: var(--error);
+}
+
+/* Section headers */
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+.section-header h3 {
+    color: var(--text-primary);
+    font-weight: 600;
+    margin: 0;
+}
+
+/* Empty state */
+.empty-state {
+    text-align: center;
+    padding: 3rem;
+    color: var(--text-secondary);
+}
+
+.empty-state-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--text-secondary);
+}

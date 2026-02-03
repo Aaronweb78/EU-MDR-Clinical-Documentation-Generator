@@ -1,0 +1,15 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Report (CER).
+
+Write Section 17: Conclusions.
+
+All Clinical Evidence:
+{context}
+
+Requirements:
+- Summarize overall clinical evaluation findings
+- State whether device meets safety and performance requirements
+- Confirm benefit-risk ratio is favorable
+- Address suitability for intended purpose
+- Make clear recommendation regarding conformity to EU MDR requirements
+
+Write in formal regulatory language. Output only the section content.

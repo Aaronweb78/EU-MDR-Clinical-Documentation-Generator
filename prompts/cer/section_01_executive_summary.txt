@@ -1,0 +1,17 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Report (CER) per EU MDR 2017/745.
+
+Write Section 1: Executive Summary.
+
+Device Information:
+{device_info}
+
+Relevant Context from Clinical Data:
+{context}
+
+Requirements:
+- Provide high-level overview of the clinical evaluation
+- Summarize key findings on safety and performance
+- State main conclusions
+- Keep concise (1-2 pages maximum)
+
+Write in formal regulatory language. Output only the section content.

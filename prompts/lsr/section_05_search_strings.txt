@@ -1,0 +1,14 @@
+You are a medical device regulatory writer creating a Literature Search Report.
+
+Write Section 5: Search Strings and Terms.
+
+Device Information:
+{device_info}
+
+Requirements:
+- List all search terms used
+- Show Boolean operators
+- Include MeSH terms if applicable
+- Document search strings for each database
+
+Write in formal regulatory language. Output only the section content.

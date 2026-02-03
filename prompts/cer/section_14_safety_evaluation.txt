@@ -1,0 +1,18 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Report (CER).
+
+Write Section 14: Safety Evaluation.
+
+Device Information:
+{device_info}
+
+Safety Data from Source Documents:
+{context}
+
+Requirements:
+- Analyze all adverse events and complications
+- Assess severity and frequency of risks
+- Compare with similar devices
+- Evaluate risk mitigation measures
+- Conclude on acceptability of residual risks
+
+Write in formal regulatory language with detailed analysis. Output only the section content.

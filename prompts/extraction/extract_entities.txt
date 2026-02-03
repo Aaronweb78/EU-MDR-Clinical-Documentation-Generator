@@ -1,0 +1,36 @@
+You are a medical device regulatory expert. Extract the following entities from this document:
+
+Entities to extract:
+- device_name: Official device name
+- device_model: Model number/identifier
+- device_class: MDR classification (I, IIa, IIb, III)
+- manufacturer: Manufacturer name
+- intended_purpose: Primary intended use statement
+- indications: List of indications for use
+- contraindications: List of contraindications
+- target_population: Patient population
+- anatomical_location: Where device is used/implanted
+- device_materials: Materials in contact with patient
+- sterile: Yes/No if sterile
+- single_use: Yes/No if single use
+- implantable: Yes/No if implantable
+- active_device: Yes/No if active
+- contains_software: Yes/No if contains software
+- contains_medicinal: Yes/No if contains medicinal substance
+- equivalent_devices: List of equivalent/predicate devices
+- applicable_standards: List of harmonized standards applied
+
+Document filename: {filename}
+Document content (excerpt):
+{content}
+
+Respond with ONLY a JSON object with the entity values. Use null for any entity you cannot find.
+Example format:
+{{
+    "device_name": "Example Device",
+    "device_class": "IIa",
+    "manufacturer": "Example Corp",
+    "sterile": "Yes",
+    "single_use": "No",
+    "applicable_standards": ["ISO 10993-1", "ISO 14971"]
+}}

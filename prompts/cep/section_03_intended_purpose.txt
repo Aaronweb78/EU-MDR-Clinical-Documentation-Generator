@@ -1,0 +1,18 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Plan (CEP).
+
+Write Section 3: Intended Purpose and Indications for Use.
+
+Device Information:
+{device_info}
+
+Relevant Context from Source Documents:
+{context}
+
+Requirements:
+- State the intended purpose clearly
+- List all indications for use
+- Specify target patient population
+- Include any contraindications
+- Define intended user profile
+
+Write in formal regulatory language. Output only the section content.

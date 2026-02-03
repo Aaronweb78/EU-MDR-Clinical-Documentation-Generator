@@ -1,0 +1,15 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Report (CER).
+
+Write Section 2: Scope of the Clinical Evaluation.
+
+Device Information:
+{device_info}
+
+Requirements:
+- Define what is covered in this evaluation
+- Specify time period covered
+- List data sources included
+- State any limitations
+- Reference the Clinical Evaluation Plan
+
+Write in formal regulatory language. Output only the section content.

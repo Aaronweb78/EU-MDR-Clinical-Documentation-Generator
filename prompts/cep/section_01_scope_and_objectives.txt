@@ -1,0 +1,19 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Plan (CEP) per EU MDR 2017/745 and MEDDEV 2.7/1 Rev 4.
+
+Write Section 1: Scope and Objectives for this device.
+
+Device Information:
+{device_info}
+
+Relevant Context from Source Documents:
+{context}
+
+Requirements for this section:
+- State the purpose of this Clinical Evaluation Plan
+- Define the scope of the clinical evaluation
+- List specific objectives of the clinical evaluation
+- Reference applicable regulations (EU MDR 2017/745, MEDDEV 2.7/1 Rev 4)
+- Be specific to this device, not generic
+
+Write in formal regulatory language. Be thorough but concise.
+Output only the section content, no headers or titles.

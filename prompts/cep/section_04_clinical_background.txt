@@ -1,0 +1,15 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Plan (CEP).
+
+Write Section 4: Clinical Background and Current Knowledge.
+
+Relevant Context from Source Documents:
+{context}
+
+Requirements:
+- Describe the medical condition(s) addressed
+- Summarize current standard of care
+- Discuss existing treatment options
+- Explain clinical need for this device
+- Reference relevant medical literature
+
+Write in formal regulatory language. Output only the section content.

@@ -1,0 +1,98 @@
+CLINICAL STUDY SUMMARY
+
+Study Title: CardioFlow Stent Safety and Efficacy Study
+Protocol Number: CF-CS-2024-001
+Study Phase: Pivotal Clinical Investigation
+
+1. STUDY OVERVIEW
+
+Objective: To evaluate the safety and efficacy of the CardioFlow Coronary Stent System in patients with symptomatic coronary artery disease.
+
+Study Design: Prospective, multi-center, single-arm study
+
+Study Population:
+- Target enrollment: 150 patients
+- Actual enrollment: 152 patients
+- Completed follow-up: 148 patients
+
+2. PATIENT DEMOGRAPHICS
+
+Age: Mean 64.3 years (range 42-81)
+Gender: 68% male, 32% female
+Diabetes: 34% of patients
+Previous MI: 28% of patients
+Hypertension: 72% of patients
+
+3. PRIMARY ENDPOINT
+
+Target Lesion Failure (TLF) at 12 months:
+- Composite of cardiac death, target vessel MI, or clinically-driven target lesion revascularization
+- Result: 8.7% (13/148 patients)
+- Performance Goal: <15%
+- Conclusion: PRIMARY ENDPOINT MET
+
+4. SECONDARY ENDPOINTS
+
+Acute Device Success: 98.0% (149/152)
+- Definition: <50% residual stenosis post-procedure
+
+Procedural Success: 96.7% (147/152)
+- Definition: Device success without in-hospital MACE
+
+Target Lesion Revascularization (TLR) at 12 months: 5.4%
+Target Vessel Revascularization (TVR) at 12 months: 6.8%
+
+5. SAFETY RESULTS
+
+Major Adverse Cardiac Events (MACE) at 12 months:
+- Cardiac death: 0.7% (1 patient)
+- Myocardial infarction: 2.7% (4 patients)
+- Stent thrombosis: 1.4% (2 patients)
+  - Acute (<24h): 0.7%
+  - Subacute (1-30d): 0.7%
+  - Late (>30d): 0%
+
+All-cause mortality: 1.4% (2 patients)
+
+6. ADVERSE EVENTS
+
+Total adverse events: 47 events in 38 patients
+
+Serious Adverse Events:
+- Cardiovascular: 15 events
+- Non-cardiovascular: 8 events
+
+Device-related adverse events: 11 events (7.2% of patients)
+- All resolved with appropriate medical management
+
+7. COMPARISON TO LITERATURE
+
+The safety and efficacy results are comparable to or better than published data for similar coronary stent systems in contemporary practice.
+
+8. CONCLUSIONS
+
+The CardioFlow Coronary Stent System demonstrated:
+- High procedural success rate (96.7%)
+- Low target lesion failure rate (8.7%)
+- Acceptable safety profile
+- Performance comparable to predicate devices
+
+The benefit-risk profile supports the use of this device in the intended patient population.
+
+9. STUDY LIMITATIONS
+
+- Single-arm design (no randomized control)
+- Limited long-term follow-up (12 months)
+- Predominantly Caucasian population
+- Exclusion of complex lesions
+
+10. POST-MARKET SURVEILLANCE
+
+Ongoing registry study (n=500 patients) for real-world performance data.
+Extended follow-up planned to 5 years for enrolled patients.
+
+Principal Investigator: Prof. Michael Chen, MD
+Study Sponsor: MedTech Innovations Inc.
+Study Period: January 2023 - December 2024
+Report Date: December 2025
+Study Status: COMPLETED

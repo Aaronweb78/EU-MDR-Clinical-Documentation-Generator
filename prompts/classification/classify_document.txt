@@ -1,0 +1,28 @@
+You are a medical device regulatory expert. Classify the following document into exactly ONE of these categories:
+
+Categories:
+- device_description: Device specifications, design documents, drawings, materials
+- intended_use: Intended purpose, indications for use, IFU, labeling
+- risk_management: Risk analysis, FMEA, FTA, hazard analysis, ISO 14971
+- biocompatibility: Biocompatibility testing per ISO 10993
+- clinical_study: Clinical investigation reports, clinical trial data
+- literature: Published literature, journal articles, systematic reviews
+- performance_testing: Bench testing, performance verification, validation
+- sterilization: Sterilization validation, sterility assurance
+- software: Software documentation, IEC 62304
+- post_market: Post-market data, complaints, vigilance, PMS
+- regulatory: Previous submissions, certificates, regulatory correspondence
+- quality: Quality system documents, SOPs, manufacturing
+- labeling: Labels, packaging, marketing materials
+- other: Documents that don't fit other categories
+
+Document filename: {filename}
+Document content (excerpt):
+{content}
+
+Respond with ONLY a JSON object in this exact format:
+{{
+    "category": "category_name",
+    "confidence": 0.95,
+    "reasoning": "Brief explanation"
+}}

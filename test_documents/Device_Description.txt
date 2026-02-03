@@ -1,0 +1,48 @@
+DEVICE DESCRIPTION DOCUMENT
+
+Device Name: CardioFlow Coronary Stent System
+Model Number: CF-2024-001
+Manufacturer: MedTech Innovations Inc.
+Device Class: Class III (Implantable)
+
+1. GENERAL DESCRIPTION
+The CardioFlow Coronary Stent System is a balloon-expandable coronary stent system intended for improving coronary luminal diameter in patients with symptomatic ischemic heart disease due to discrete de novo or restenotic lesions in native coronary arteries.
+
+2. DEVICE COMPONENTS
+- Cobalt-chromium alloy stent (L-605)
+- Polymer coating (biocompatible)
+- Delivery catheter system
+- Balloon expansion mechanism
+
+3. PHYSICAL CHARACTERISTICS
+- Stent diameter: 2.5mm to 4.0mm
+- Stent length: 8mm to 38mm
+- Strut thickness: 81 micrometers
+- Radial strength: >200 mmHg
+
+4. MATERIALS IN CONTACT WITH BODY
+- Cobalt-chromium alloy (ISO 5832-5 compliant)
+- Biocompatible polymer coating
+- All materials tested per ISO 10993-1
+
+5. STERILITY
+- Supplied sterile (EO sterilization)
+- Single use only
+- Sterility assurance level (SAL): 10^-6
+
+6. INTENDED USE
+For use in patients with symptomatic ischemic heart disease due to discrete de novo or restenotic lesions in native coronary arteries with reference vessel diameter of 2.5mm to 4.0mm and lesion length ≤34mm.
+
+7. CONTRAINDICATIONS
+- Patients with known hypersensitivity to cobalt, chromium, or polymer materials
+- Acute myocardial infarction within 72 hours
+- Left ventricular ejection fraction <30%
+
+8. REGULATORY STATUS
+- CE Mark: Pending
+- FDA 510(k): In preparation
+- Target Classification: Class III
+
+Document Version: 2.1
+Date: December 2025
+Approved by: John Smith, VP Regulatory Affairs

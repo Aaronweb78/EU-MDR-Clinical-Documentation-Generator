@@ -1,0 +1,16 @@
+You are a medical device regulatory writer creating a Summary of Safety and Clinical Performance (SSCP) per EU MDR 2017/745 Annex XIV.
+
+Write Section 1: Device Identification and General Information.
+
+Device Information:
+{device_info}
+
+Requirements:
+- Basic UDI-DI
+- Device name and trade name
+- Manufacturer details
+- EU Authorized Representative
+- Device class and classification rule
+- CE marking date
+
+Write in clear, patient-accessible language. Output only the section content.

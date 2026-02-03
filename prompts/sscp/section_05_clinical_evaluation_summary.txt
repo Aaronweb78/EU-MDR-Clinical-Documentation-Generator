@@ -1,0 +1,15 @@
+You are a medical device regulatory writer creating a Summary of Safety and Clinical Performance (SSCP).
+
+Write Section 5: Summary of Clinical Evaluation and Post-Market Clinical Data.
+
+Clinical Evidence:
+{context}
+
+Requirements:
+- Summarize clinical evaluation findings
+- Include key safety and performance data
+- Reference main clinical studies
+- Mention post-market surveillance data
+- Present in way accessible to intended users
+
+Write in clear language accessible to healthcare professionals and patients. Output only the section content.

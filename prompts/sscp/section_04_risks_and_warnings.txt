@@ -1,0 +1,14 @@
+You are a medical device regulatory writer creating a Summary of Safety and Clinical Performance (SSCP).
+
+Write Section 4: Residual Risks and Undesirable Side-Effects.
+
+Risk Information from Source Documents:
+{context}
+
+Requirements:
+- List residual risks after risk mitigation
+- Describe possible side effects
+- Include warnings and precautions
+- Use language understandable to patients and healthcare professionals
+
+Write in clear, accessible language. Output only the section content.

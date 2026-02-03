@@ -1,0 +1,92 @@
+RISK ANALYSIS REPORT
+ISO 14971:2019 Compliant
+
+Device: CardioFlow Coronary Stent System
+Document Number: RA-CF-2024-001
+Date: December 2025
+
+1. INTRODUCTION
+This risk analysis has been performed in accordance with ISO 14971:2019 to identify, analyze, and evaluate risks associated with the CardioFlow Coronary Stent System.
+
+2. RISK MANAGEMENT ACTIVITIES
+
+2.1 Hazard Identification
+The following hazards have been identified:
+- Stent thrombosis
+- Restenosis
+- Stent migration
+- Allergic reaction to materials
+- Perforation of vessel wall
+- Stent fracture
+- Infection
+
+2.2 Risk Estimation
+
+Hazard: Stent Thrombosis
+- Severity: Critical (5)
+- Probability: Occasional (3)
+- Risk Level: HIGH (15)
+- Risk Acceptability: Unacceptable before mitigation
+
+Hazard: Restenosis
+- Severity: Serious (4)
+- Probability: Occasional (3)
+- Risk Level: MEDIUM (12)
+- Risk Acceptability: ALARP
+
+Hazard: Allergic Reaction
+- Severity: Moderate (3)
+- Probability: Remote (2)
+- Risk Level: LOW (6)
+- Risk Acceptability: Acceptable
+
+Hazard: Vessel Perforation
+- Severity: Critical (5)
+- Probability: Remote (2)
+- Risk Level: MEDIUM (10)
+- Risk Acceptability: ALARP
+
+3. RISK CONTROL MEASURES
+
+3.1 Stent Thrombosis Mitigation
+- Design: Biocompatible polymer coating
+- Clinical: Dual antiplatelet therapy protocol
+- Labeling: Clear instructions for use
+- Post-market: Surveillance program
+- Residual Risk: LOW (3)
+
+3.2 Restenosis Mitigation
+- Design: Optimal strut thickness
+- Design: Drug-eluting coating under development
+- Clinical: Patient selection criteria
+- Residual Risk: LOW (4)
+
+3.3 Vessel Perforation Mitigation
+- Design: Atraumatic delivery system
+- Training: Physician training program
+- IFU: Detailed procedural guidance
+- Residual Risk: VERY LOW (2)
+
+4. RISK-BENEFIT ANALYSIS
+The residual risks are considered acceptable when weighed against the benefits of coronary revascularization in symptomatic patients.
+
+Benefits:
+- Restoration of coronary blood flow
+- Relief of angina symptoms
+- Improved quality of life
+- Well-established procedure
+
+5. OVERALL RESIDUAL RISK
+After implementation of risk control measures, the overall residual risk is deemed acceptable for the intended use.
+
+6. RISK MANAGEMENT PLAN
+Post-market clinical follow-up will monitor:
+- Stent thrombosis rates
+- Target lesion revascularization
+- Major adverse cardiac events
+- Long-term safety and performance
+
+Document Status: APPROVED
+Risk Management Team: Dr. Sarah Johnson, Lead
+Review Date: Annual
+Next Review: December 2026

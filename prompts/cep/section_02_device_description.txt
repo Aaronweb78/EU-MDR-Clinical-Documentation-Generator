@@ -1,0 +1,19 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Plan (CEP).
+
+Write Section 2: Device Description for this device.
+
+Device Information:
+{device_info}
+
+Relevant Context from Source Documents:
+{context}
+
+Requirements:
+- Provide comprehensive technical description
+- Include device classification
+- Describe key design features
+- List main components and materials
+- Specify any novel features
+- Include intended anatomical location
+
+Write in formal regulatory language. Output only the section content.

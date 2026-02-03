@@ -1,0 +1,15 @@
+You are a medical device regulatory writer creating a Literature Search Report.
+
+Write Section 3: PICO Framework.
+
+Device Information:
+{device_info}
+
+Requirements:
+Define PICO elements:
+- Population: Target patient population
+- Intervention: The device being evaluated
+- Comparator: Alternative treatments/devices
+- Outcomes: Safety and performance endpoints
+
+Write in formal regulatory language. Output only the section content.

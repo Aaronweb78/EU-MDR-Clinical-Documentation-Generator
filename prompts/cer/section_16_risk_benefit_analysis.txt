@@ -1,0 +1,23 @@
+You are a medical device regulatory writer creating a Clinical Evaluation Report (CER).
+
+Write Section 16: Risk-Benefit Analysis.
+
+Device Information:
+{device_info}
+
+Risk Information:
+{risk_context}
+
+Benefit Information:
+{benefit_context}
+
+Requirements:
+- Summarize all identified risks
+- Summarize clinical benefits demonstrated
+- Weigh risks against benefits systematically
+- Consider risk mitigation measures
+- State whether residual risks are acceptable when weighed against benefits
+- Address each intended use separately if multiple
+- Provide clear risk-benefit determination
+
+Write in formal regulatory language. Be objective and evidence-based. Output only the section content.
